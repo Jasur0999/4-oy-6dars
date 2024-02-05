@@ -1,8 +1,8 @@
-//  1- task  //////////////////////////////////
-function add(a, b){
-    for (let i = 1; i <= b){
-        console.log(i);
-    }
-}
+//  //////////////////////////////////
+// let arr = ['everest', 'fuji'];
+// console.log(arr[1][2]);
 
-add(18, 39);
+const fruist = ['Apple','Banana','Pear'];
+fruist[fruist.length] = 'Limon';
+fruist[7] = 'Orange';
+console.log(fruist);
