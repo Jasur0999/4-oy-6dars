@@ -69,5 +69,17 @@
 // let uniqueArr = [...new Set(arr)];
 // console.log(uniqueArr);
 
-
 // 8- task   //////////////////////////////////
+
+// let arr = [7, 4, 2, 3, 1, 5];
+// let min = Math.min(...arr);
+// let max = Math.max(...arr);
+
+// let minIndex = arr.indexOf(min);
+// let maxIndex = arr.indexOf(max);
+
+// [arr[minIndex], arr[maxIndex]] = [arr[maxIndex], arr[minIndex]];
+
+// console.log(min, max);
+// console.log("Yangi massiv: " + JSON.stringify(arr));
+
